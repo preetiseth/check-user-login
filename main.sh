@@ -1,3 +1,4 @@
+# check if a user is logged in or not
 echo enter username
 read name
 who > test
